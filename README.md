@@ -152,4 +152,4 @@ This repository is a public overview of the project. The application code is pri
 
 Built by Kedar Vyas. I would be glad to talk to anyone working at the intersection of AI and healthcare.
 
-[email address]
+kedarvyas.edu@gmail.com
